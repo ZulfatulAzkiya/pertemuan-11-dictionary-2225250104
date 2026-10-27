@@ -1,0 +1,17 @@
+# File Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# File rahasia
+.env
+
+# Pengaturan lokal VS Code
+.vscode/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
